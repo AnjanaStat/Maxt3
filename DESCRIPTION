@@ -1,0 +1,14 @@
+Package: Maxt3
+Type: Package
+Title: Max-T test package
+Version: 0.1.0
+Author: Anjana Mondal
+Maintainer: Anjana Mondal <mondal.anjana25@gmail.com>
+Description: This package finds test statistic value and corresponding critical 
+              value of Max-T test for testing equality 
+             of means against ordered alternatives in one-way ANOVA model
+             with heteroscedasticity when number of groups is 3. 
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
